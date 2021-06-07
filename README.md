@@ -3,6 +3,6 @@ Practicing Fundamentals of C/C++
 
 With
 
-HackerEarth **Code Monk** Practice
+HackrRank Practice
 
 *Step by Step*
